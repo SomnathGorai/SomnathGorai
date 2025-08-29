@@ -1,7 +1,7 @@
 # 🚀 Who I Am ? Seriously ?
 I wonder that you are interested.  
-Just Another Curious Guy .....  
-Nickname Somu.
+Just Another Curious Guy who speaks through circuits and codes:)
+
 # 💫 Cause you wanted to know about Me :) 
 🚀 Exploring Electronics, IoT, and Robotics with Arduino & ESP32<br><br>⚡ Turning ideas into code — from circuits to robots<br><br>🤖 Robotics, IoT, and Embedded Systems Enthusiast<br><br>🌟 Learning, creating, and sharing code & hardware projects<br><br>🔧 DIY Robotics | Embedded Systems | IoT Experiments
 
